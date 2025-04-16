@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Khalid</h1>
 <p align="center">
-  🧑‍💻 A passionate self-taught web developer and computer science student <br />
+  💻 A passionate self-taught web developer and computer science student <br />
   🎯 Currently building cool web tools & SaaS ideas <br />
   🌱 Learning React & exploring AI use cases
 </p>
@@ -19,7 +19,7 @@
 ### 🚀 Goals
 
 - 📚 Learn full-stack development 
-- 🧠 Explore AI + Automation ideas
+- 🚀 Explore AI + Automation ideas
 - 🔧 Build some real-world SaaS project
 
 ---
