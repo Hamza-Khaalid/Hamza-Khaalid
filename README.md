@@ -9,10 +9,13 @@
 
 ### 🔧 My Projects
 
-- 🎨 [Wishcraft](https://github.com/Hamza-Khaalid/wishcraft) – A UI-focused idea board
-- 💸 [myPersonal-Finance-Manager](https://github.com/Hamza-Khaalid/myPersonal-Finance-Manager) – Manage your expenses easily
-- 🎥 [socialmediadownloader](https://github.com/Hamza-Khaalid/socialmediadownloader) – Download videos from social platforms
-- 🎲 [isham-image-generator](https://github.com/Hamza-Khaalid/isham-image-generator) – A basic image generator using AI
+- [**Wishcraft**](https://github.com/Hamza-Khaalid/wishcraft) – A UI-focused idea board
+- [**PrimeDistro**](https://github.com/Hamza-Khaalid/primedistro) – A fictional business website built with HTML & Tailwind CSS.
+- [**PrimeDistro Dashboard**](https://github.com/Hamza-Khaalid/primeDistroDashboard) – A front-end analytics and product management dashboard using Chart.js.
+- [**NotesApp**](https://github.com/Hamza-Khaalid/notesApp) – A simple note-taking app built with HTML, CSS, and JavaScript.
+- [**socialmediadownloader**](https://github.com/Hamza-Khaalid/socialmediadownloader) – Download videos from social platforms
+- [**isham-image-generator**](https://github.com/Hamza-Khaalid/isham-image-generator) – A basic image generator using AI
+- [**myPersonal-Finance-Manager**](https://github.com/Hamza-Khaalid/myPersonal-Finance-Manager) – Manage your expenses easily
 
 ---
 
